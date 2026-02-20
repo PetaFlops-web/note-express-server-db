@@ -1,0 +1,4 @@
+node_modules
+key-pair-akbar.pem
+.env
+.prod.env
